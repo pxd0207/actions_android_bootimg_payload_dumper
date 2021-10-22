@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://pan.ggbss.top/directlink/114514/Redmi%20K40%E7%B3%BB%E5%88%97/ROM/K40(alioth)/PixelPlusUI_3.9_alioth-11.0-20210914-0357-OFFICIAL.zip
+  ROM_URL: https://bigota.d.miui.com/V12.5.14.0.RKHCNXM/alioth_images_V12.5.14.0.RKHCNXM_20210919.0000.00_11.0_cn_2d97be5605.tgz
   TZ: Asia/Shanghai
 
 jobs:
